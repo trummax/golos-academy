@@ -379,6 +379,15 @@
  },
  {
   "author": "graff",
+  "title": "Почему то запостил 2 поста подряд.",
+  "link": "vktfx-akademiya-konspekt-pervyi-izuchaem-python",
+  "date": "2017-08-02T13:04:00",
+  "totalPayout": 0,
+  "authorReward": 0,
+  "curatorsRewards": 0
+ },
+ {
+  "author": "graff",
   "title": "[АКАДЕМИЯ] Конспект первый. Изучаем Python",
   "link": "akademiya-konspekt-pervyi-izuchaem-python",
   "date": "2017-08-02T12:58:27",
@@ -592,23 +601,5 @@
   "totalPayout": 202,
   "authorReward": 137,
   "curatorsRewards": 65
- },
- {
-  "author": "lightman",
-  "title": "Академия: конспект курса 1 недели: Introduction to User Experience",
-  "link": "akademiya-konspekt-kursa-1-nedeli-introduction-to-user-experience",
-  "date": "2017-06-27T14:16:03",
-  "totalPayout": 267,
-  "authorReward": 232,
-  "curatorsRewards": 35
- },
- {
-  "author": "rusalka",
-  "title": "Создание АРТЕФАКТОВ в обществе. Неделя 1",
-  "link": "sozdanie-artefaktov-v-obshestve-nedelya-1",
-  "date": "2017-06-24T14:59:45",
-  "totalPayout": 238,
-  "authorReward": 206,
-  "curatorsRewards": 32
  }
 ]
