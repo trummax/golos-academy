@@ -1,0 +1,94 @@
+genesis_id = ""
+system = "Lamden"
+dependencies = ["Ethereum"]
+icon = "lamden"
+
+[token]
+name = " token"
+symbol = ""
+
+[consensus]
+consensus_type = "ERC20 Token"
+consensus_name = "Ethereum"
+
+[descriptions]
+state = "Project"
+system_type = "cryptoasset"
+headline = "Token that facilitates interoperability and blockchain dev tools"
+
+[crowdsales]
+start_date = "2017-11-01T00:00:00"
+end_date = "2017-02-15T00:00:00"
+end_date_plan = "2017-02-15T00:00:00"
+genesis_address = [""]
+funding_terms = "https://lamden.io/presale-registration"
+funding_url = "https://lamden.io/presale-registration"
+tokens_sold = ""
+tokens_issued = ""
+btc_raised = ""
+cap_limit = [""]
+raised = [""]
+
+[specs]
+supply = 0
+
+[[links]]
+type = "website"
+name = "lamden.io"
+url = "https://lamden.io"
+tags = ["Main"]
+
+[[links]]
+type = "paper"
+name = "Lamden Whitepaper"
+url = "https://daks2k3a4ib2z.cloudfront.net/599f63af83acb10001bd4583/59d69f806fbb6f000123dbce_lamden-white-paper.pdf"
+tags = ["Main", "Science"]
+
+[[links]]
+type = "github"
+name = "Lamden Github"
+url = "https://github.com/Lamden/"
+icon = "github.png"
+tags = ["Main", "Code"]
+
+[[links]]
+type = "blog"
+name = " Blog"
+url = ""
+icon = "medium.png"
+tags = ["Main", "News"]
+
+[[links]]
+type = "forum"
+name = "Bitcointalk"
+url = ""
+icon = "bitcointalk.png"
+tags = ["News"]
+
+[[links]]
+type = "twitter"
+name = "Twitter"
+url = ""
+icon = "twitter.png"
+tags = ["News"]
+
+[[links]]
+type = "custom"
+name = " Telegram"
+url = ""
+icon = "telegram.png"
+tags = ["News"]
+
+[[links]]
+type = "reddit"
+name = "Reddit"
+url = ""
+icon = "reddit.png"
+tags = ["News"]
+
+[[links]]
+type = "custom"
+name = "Facebook"
+url = ""
+icon = "facebook.png"
+tags = ["News"]
