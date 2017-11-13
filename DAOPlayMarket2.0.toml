@@ -1,0 +1,95 @@
+
+genesis_id = ""
+system = "DAOPlayMarket2.0"
+dependencies = ["Ethereum"]
+icon = "daoplaymarket2.0"
+
+[token]
+name = " token"
+symbol = ""
+
+[consensus]
+consensus_type = "ERC20 Token"
+consensus_name = "Ethereum"
+
+[descriptions]
+state = "Project"
+system_type = "cryptoasset"
+headline = "NEW ERA OF MOBILE APPLICATIONS"
+
+[crowdsales]
+start_date = "2017-11-08T00:00:00"
+end_date = "2017-12-29T23:59:00"
+end_date_plan = "2017-12-29T23:59:00"
+genesis_address = [""]
+funding_terms = "https://ico.playmarket.io/images/docs/wp_playmarket_en.pdf"
+funding_url = "https://ico.playmarket.io/"
+tokens_sold = ""
+tokens_issued = ""
+btc_raised = ""
+cap_limit = [""]
+raised = [""]
+
+[specs]
+supply = 0
+
+[[links]]
+type = "website"
+name = "ico.playmarket.io"
+url = "https://ico.playmarket.io/"
+tags = ["Main"]
+
+[[links]]
+type = "paper"
+name = "DAOPlayMarket2.0 Whitepaper"
+url = "https://ico.playmarket.io/images/docs/wp_playmarket_en.pdf"
+tags = ["Main", "Science"]
+
+[[links]]
+type = "github"
+name = "DAOPlayMarket2.0 Github"
+url = "https://github.com/CryptonStudio"
+icon = "github.png"
+tags = ["Main", "Code"]
+
+[[links]]
+type = "blog"
+name = " Blog"
+url = ""
+icon = "medium.png"
+tags = ["Main", "News"]
+
+[[links]]
+type = "forum"
+name = "Bitcointalk"
+url = ""
+icon = "bitcointalk.png"
+tags = ["News"]
+
+[[links]]
+type = "twitter"
+name = "Twitter"
+url = ""
+icon = "twitter.png"
+tags = ["News"]
+
+[[links]]
+type = "custom"
+name = " Telegram"
+url = ""
+icon = "telegram.png"
+tags = ["News"]
+
+[[links]]
+type = "reddit"
+name = "Reddit"
+url = ""
+icon = "reddit.png"
+tags = ["News"]
+
+[[links]]
+type = "custom"
+name = "Facebook"
+url = ""
+icon = "facebook.png"
+tags = ["News"]
