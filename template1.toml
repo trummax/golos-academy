@@ -9,7 +9,7 @@ asset_type = ""
 
 [ico.common_info]
 is_ico = true
-ico_phase = 0
+current_ico_phase = 0
 
 [ico.common_info.registration]
 start_date = ""
