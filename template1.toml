@@ -5,6 +5,14 @@ logo = ""
 state = 3 # 0 - Project, 1 - Pre-public, 2 - Public
 asset_type = "" # cryptocurrency, cryptoasset
 
+[[legal_entity]]
+name = ""
+residence = ""
+purpose = ""
+shareholders_list = ""
+registration_date = ""
+venture_capital_funding = ""
+
 [ico]
 
   [ico.common_info]
