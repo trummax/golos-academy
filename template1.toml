@@ -4,7 +4,7 @@ headline = ""
 logo = ""
 state = 3 # 0 - Project, 1 - Pre-public, 2 - Public
 asset_type = "" # cryptocurrency, cryptoasset
-
+dd
 [[legal_entity]]
 name = ""
 residence = ""
