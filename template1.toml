@@ -64,9 +64,9 @@ venture_capital_funding = ""
     cap_limit = 0
     token_distribution_date = ""
     
-    [[ico.phases.terms.crowdsale_adresses]]
-    currency = ""
-    adress = ""
+      [[ico.phases.terms.crowdsale_adresses]]
+      currency = ""
+      adress = ""
 
     [ico.phases.dates]
     start_date = ""
