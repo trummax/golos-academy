@@ -62,8 +62,11 @@ venture_capital_funding = ""
     share_of_sold = 0 # Filled by cyberanalytics team
     vesting = ""
     cap_limit = 0
-    crowdsale_adresses = ""
     token_distribution_date = ""
+    
+    [[ico.phases.terms.crowdsale_adresses]]
+    currency = ""
+    adress = ""
 
     [ico.phases.dates]
     start_date = ""
